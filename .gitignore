@@ -1,0 +1,17 @@
+# ── Environment ─────────────────────────────────────────────────
+.env
+
+# ── Logs ────────────────────────────────────────────────────────
+storage/logs/*.log
+
+# ── OS / editor junk ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# ── Dependencies (if added later) ───────────────────────────────
+vendor/
+node_modules/
